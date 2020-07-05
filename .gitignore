@@ -1,0 +1,6 @@
+# Build
+bin/
+
+# Tests
+c.out
+coverage.html
